@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_note">Add RSS Item</string>
+    <string name="save">Save</string>
+    <string name="saved">RSS Item Saved</string>
+    <string name="not_saved">Couldn\'t Save</string>
+    <string name="no_note">No RSSItems</string>
+    <string name="RSSItem">Update RSS Item</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="updated">RSS Item Updated</string>
+</resources>
